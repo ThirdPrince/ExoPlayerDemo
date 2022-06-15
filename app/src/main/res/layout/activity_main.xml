@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.exoplayer2.ui.PlayerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/playView"
+    android:layout_width="match_parent"
+    app:keep_content_on_player_reset="true"
+    android:layout_height="200dp"
+    tools:context=".MainActivity">
+
+</com.google.android.exoplayer2.ui.PlayerView>
